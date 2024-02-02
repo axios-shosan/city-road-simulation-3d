@@ -22,3 +22,29 @@ Placing the Car on the Light
 Code Organization: The code could benefit from better organization, especially by grouping related functionalities into classes or distinct functions (drawObject, Camera…).
 Encapsulation: The Object class could benefit from stricter encapsulation to better adhere to object-oriented principles.
 
+
+## demo
+
+![Demo](https://github.com/axios-shosan/city-road-simulation-3d/blob/master/demo/Screenshot%20from%202024-01-29%2007-28-29.png)
+
+![Demo](https://github.com/axios-shosan/city-road-simulation-3d/blob/master/demo/Screenshot%20from%202024-01-29%2007-29-06.png)
+
+![Demo](https://github.com/axios-shosan/city-road-simulation-3d/blob/master/demo/Screenshot%20from%202024-01-29%2007-40-47.png)
+
+![Demo](https://github.com/axios-shosan/city-road-simulation-3d/blob/master/demo/Screenshot%20from%202024-01-29%2007-41-06.png)
+
+![Demo](https://github.com/axios-shosan/city-road-simulation-3d/blob/master/demo/Screenshot%20from%202024-01-29%2010-34-07.png)
+
+![Demo](https://github.com/axios-shosan/city-road-simulation-3d/blob/master/demo/Screenshot%20from%202024-01-29%2010-34-36.png)
+
+![Demo](https://github.com/axios-shosan/city-road-simulation-3d/blob/master/demo/Screenshot%20from%202024-01-29%2010-35-00.png)
+
+![Demo](https://github.com/axios-shosan/city-road-simulation-3d/blob/master/demo/Screenshot%20from%202024-01-29%2010-35-50.png)
+
+![Demo](https://github.com/axios-shosan/city-road-simulation-3d/blob/master/demo/Screenshot%20from%202024-01-29%2010-35-59.png)
+
+![Demo](https://github.com/axios-shosan/city-road-simulation-3d/blob/master/demo/Screenshot%20from%202024-01-29%2011-22-10.png)
+
+![Demo](https://github.com/axios-shosan/city-road-simulation-3d/blob/master/demo/Screenshot%20from%202024-01-29%2011-22-34.png)
+
+![Demo](https://github.com/axios-shosan/city-road-simulation-3d/blob/master/demo/Screenshot%20from%202024-01-29%2011-22-43.png)
